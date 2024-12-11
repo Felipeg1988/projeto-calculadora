@@ -2,7 +2,7 @@
 <br>
 <br>
 <h2>Esse foi um projeto de uma Calculadora que fiz no youtube.</h2>
-<a href ="https://www.youtube.com/watch?v=42TShjXR0m0&ab_channel=GustavoNeitzke"></a>
+<a href="https://www.youtube.com/watch?v=42TShjXR0m0&ab_channel=GustavoNeitzke"></a>
 <br>
 <h2>Tecnologias Ultilizadas Foram.</h2>  
 <p><strong>HTML</strong></p>
