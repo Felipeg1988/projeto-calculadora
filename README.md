@@ -5,9 +5,10 @@
 <a href="https://www.youtube.com/watch?v=42TShjXR0m0&ab_channel=GustavoNeitzke"></a>
 <br>
 
-https://github.com/Felipeg1988/Easy-Shopping/tree/main
 
 <h2>Tecnologias Ultilizadas Foram.</h2>  
 <p><strong>HTML</strong></p>
 <p><strong>CSS</strong></p>
 <p><strong>JS</strong></p>
+
+
